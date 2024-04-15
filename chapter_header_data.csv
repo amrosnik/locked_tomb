@@ -1,0 +1,96 @@
+Book,Act,Chapter,String chapter name,Skull image,Other image,Broken,Perspective,Timing
+Gideon,1,1,,9,,No,3,Chronological
+Gideon,1,2,,9,,No,3,Chronological
+Gideon,1,3,,1,,No,3,Chronological
+Gideon,1,4,,9,,No,3,Chronological
+Gideon,1,5,,9,,No,3,Chronological
+Gideon,1,6,,9,,No,3,Chronological
+Gideon,1,7,,1,,No,3,Chronological
+Gideon,1,8,,1,,No,3,Chronological
+Gideon,2,9,,3,,No,3,Chronological
+Gideon,2,10,,7,,No,3,Chronological
+Gideon,2,11,,1,,No,3,Chronological
+Gideon,2,12,,6,,No,3,Chronological
+Gideon,2,13,,9,,No,3,Chronological
+Gideon,2,14,,9,,No,3,Chronological
+Gideon,2,15,,5,,No,3,Chronological
+Gideon,2,16,,5,,No,3,Chronological
+Gideon,3,17,,5,,No,3,Chronological
+Gideon,3,18,,1,,No,3,Chronological
+Gideon,3,19,,2,,No,3,Chronological
+Gideon,3,20,,7,,No,3,Chronological
+Gideon,3,21,,6,,No,3,Chronological
+Gideon,3,22,,4,,No,3,Chronological
+Gideon,3,23,,2,,No,3,Chronological
+Gideon,3,24,,6,,No,3,Chronological
+Gideon,3,25,,4,,No,3,Chronological
+Gideon,4,26,,7,,No,3,Chronological
+Gideon,4,27,,6,,No,3,Chronological
+Gideon,4,28,,8,,No,3,Chronological
+Gideon,4,29,,3,,No,3,Chronological
+Gideon,4,30,,9,,No,3,Chronological
+Gideon,4,31,,9,,No,3,Chronological
+Gideon,4,32,,2,,No,3,Chronological
+Gideon,4,33,,8,,No,3,Chronological
+Gideon,4,34,,3,,No,3,Chronological
+Gideon,4,35,,6,,No,3,Chronological
+Gideon,4,36,,9,,No,3,Chronological
+Gideon,5,37,,9,Sunglasses; IX crossed out,No,3,Chronological
+Gideon,5,37.5,Epilogue,1,,No,3,Chronological
+Harrow,1,-0.5,Prologue,,Herald,No,2,Night before Emperor’s murder (BEM)
+Harrow,1,0.5,Parodos,9,,Yes,3,14 months BEM + alternate chronological
+Harrow,1,1,,9,,No,2,9 months BEM
+Harrow,1,2,,9,,No,2,9 months BEM
+Harrow,1,3,,9,,No,3,Alternate chronological
+Harrow,1,4,,3,,No,2,9 months BEM
+Harrow,1,5,,9,,Yes,3,Alternate chronological
+Harrow,1,6,,8,,No,2,9 months BEM
+Harrow,1,7,,6,,No,2,9 months BEM
+Harrow,1,8,,4,,Yes,3,Alternate chronological
+Harrow,1,9,,7,,No,2,9 months BEM
+Harrow,1,10,,5,,Yes,3,Alternate chronological
+Harrow,1,11,,7,,No,2,9 months BEM
+Harrow,2,12,,8,,No,2,6 months BEM
+Harrow,2,13,,3,,No,2,6 months BEM
+Harrow,2,14,,9,,No,2,6 months BEM
+Harrow,2,15,,9,,No,2,6 months BEM
+Harrow,2,16,,5,,No,2,6 months BEM
+Harrow,2,17,,8,,No,2,6 months BEM
+Harrow,2,18,,2,,Yes,3,Alternate chronological
+Harrow,2,19,,2,,No,2,10 months BEM
+Harrow,2,20,,9,,No,2,10 months BEM
+Harrow,2,21,,6,,Yes,3,Alternate chronological
+Harrow,2,22,,7,,No,2,10 months BEM
+Harrow,3,23,,3,,No,2,4 months BEM
+Harrow,3,24,,2,,No,2,4 months BEM
+Harrow,3,25,,9,,No,2,4 months BEM
+Harrow,3,26,,8,,Yes,3,Alternate chronological
+Harrow,3,27,,3,,No,2,4 months BEM
+Harrow,3,28,,5,,Yes,3,Alternate chronological
+Harrow,3,29,,3,,No,2,4 months BEM
+Harrow,3,30,,4,,No,2,4 months BEM
+Harrow,3,31,,2,,No,2,4 months BEM
+Harrow,4,32,,8,,No,2,2 months BEM
+Harrow,4,33,,6,,No,2,2 months BEM
+Harrow,4,34,,2,,No,2,2 months BEM
+Harrow,4,35,,9,,Yes,3,Alternate chronological
+Harrow,4,36,,,Herald,No,2,1 week BEM
+Harrow,4,37,,9,,No,2,1 week BEM
+Harrow,4,38,,7,,No,2,1 week BEM
+Harrow,4,39,,,Herald,No,2,1 week BEM
+Harrow,4,39.5,Epiparodos,3,,No,3,9 months 29 days BEM
+Harrow,5,40,,9,,Yes,3,??? ??? ??? 
+Harrow,5,41,,5,,Yes,3,??? before ???
+Harrow,5,42,,4,,Yes,3,Month ??? Death
+Harrow,5,43,,9,Sunglasses; IX crossed out,Yes,3,1 night BEM
+Harrow,5,44,,,Herald,No,1,That same night BEM
+Harrow,5,45,,2,,Yes,3,An amount of time BEM
+Harrow,5,46,,8,,No,1,1 night BEM
+Harrow,5,47,,5,,Yes,3,1 night BEM
+Harrow,5,48,,3,,No,1,1 night BEM
+Harrow,5,49,,9,,Yes,3,1 night BEM
+Harrow,5,50,,2,,No,1,30 min BEM
+Harrow,5,51,,8,,No,1,30 min BEM
+Harrow,5,52,,5,,No,1,Murder time
+Harrow,5,53,,9,,Yes,3,30 min ago
+Harrow,5,53.5,Epilogue,6,,No,3,6 months AEM
