@@ -8,4 +8,4 @@ message = ""
 for n,c in enumerate(cipher):
     message += alphabet.get(c)
 
-print(message)
+print(message) # the message is: thetowerhasreactivated
